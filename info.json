@@ -1,0 +1,11 @@
+{
+    "name": "Five7",
+    "website": "https://five7.io",
+    "description": "Advanced Blockchain Ecosystem with Debit Card, Digital Asset Exchange, Blockchain Academy and other Crypto Services with unique feature of After Death Facility.",
+    "explorer": "https://bscscan.com/token/0x1d38291068fd6c0e7fc03b77ea90c82950658b37",
+    "type": "BEP20",
+    "symbol": "F7",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x1D38291068fD6C0E7fC03b77EA90C82950658B37"
+}
